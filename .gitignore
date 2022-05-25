@@ -9,3 +9,5 @@
 */datasets
 
 __pycache__
+# Lines Aded by me
+*.idea/
